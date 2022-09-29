@@ -16,11 +16,11 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'Fireship', icon: <CodeIcon />, },
   { name: 'Traversy', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'Bro Code', icon: <CodeIcon />, },
-  { name: 'Fireship', icon: <CodeIcon /> },
+  { name: 'CS Dojo', icon: <CodeIcon /> },
   { name: 'FreeCode', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
   { name: 'Movie', icon: <OndemandVideoIcon />, },
